@@ -12,7 +12,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/chat-gpt.git
+git clone https://github.com/mahdibenabd/chat-gpt.git
 Open the index.html file in your web browser.
 
 **Ensure you have an OpenAI API key. If not, sign up for the OpenAI API and replace the placeholder API key in ChatGPT.js with your actual key.**
